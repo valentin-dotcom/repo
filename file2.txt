@@ -3,4 +3,8 @@ doing la vraie chose
 =======
 alallalal
 >>>>>>> master
+<<<<<<< HEAD
 pas cat t'es un fou ou quoi
+=======
+cat fichier1.txt
+>>>>>>> origin/feature1
