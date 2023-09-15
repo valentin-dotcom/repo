@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+het
+=======
 the
+>>>>>>> master
  vie
 est drole
 ta mere sent les chaussettes
