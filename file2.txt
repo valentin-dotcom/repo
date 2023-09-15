@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+doing la vraie chose 
+=======
 alallalal
+>>>>>>> master
