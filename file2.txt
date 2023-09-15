@@ -3,3 +3,4 @@ doing la vraie chose
 =======
 alallalal
 >>>>>>> master
+cat fichier1.txt
